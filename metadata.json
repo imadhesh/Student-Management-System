@@ -1,0 +1,6 @@
+{
+  "name": "StudentSphere - JDBC & MySQL Student Management System",
+  "description": "Comprehensive student management system powered by a simulated MySQL database and JDBC driver architecture to track student grades, attendance, courses, and academic analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
